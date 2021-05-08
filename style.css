@@ -152,8 +152,7 @@
     font-size: 25px;
   }
   
-  #checked1,
-  #checked2 {
+.checked {
     text-decoration: line-through;
   }
   
