@@ -52,6 +52,7 @@
     margin-top: 80px;
     margin-bottom: 80px;
     background-image: url("images/hr-img.png");
+    border:none;
     height: 15px;
   }
   
@@ -125,6 +126,7 @@
   
   fieldset {
     background-image: url(images/list-bg.png);
+    border:none;
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
